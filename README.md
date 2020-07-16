@@ -1,0 +1,1 @@
+# Basic starting package for all projects
