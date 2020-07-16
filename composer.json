@@ -1,0 +1,12 @@
+{
+    "name": "ryanf/blog-rest-api",
+    "authors": [
+        {
+            "name": "Ryan",
+            "email": "ryan.farrell44@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.1"
+    }
+}
